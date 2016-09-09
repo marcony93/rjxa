@@ -77,7 +77,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'es',
 
     /*
     |--------------------------------------------------------------------------
@@ -172,11 +172,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        rjxa\Providers\AppServiceProvider::class,
+        // rjxa\Providers\BroadcastServiceProvider::class,
+        rjxa\Providers\AuthServiceProvider::class,
+        rjxa\Providers\EventServiceProvider::class,
+        rjxa\Providers\RouteServiceProvider::class,
 
     ],
 
