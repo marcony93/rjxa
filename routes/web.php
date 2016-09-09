@@ -22,3 +22,10 @@ Route::get('/prueba',function(){
 Route::get('/pruebaparametros/{x}', function($x){
     return "Hola ". $x;
 });
+
+Route::get('pruebacont','controladorPrueba@index');
+
+Route::get('controladorConNombre/{name}','controladorPrueba@nombre');
+
+// Controladores RestFull php artisan maje:controller NOMBRE
+Route::resource('amigos','AmigosController');
