@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/prueba',function(){
+    return "esto es un mensaje de prueba";
+});
+
+Route::get('/pruebaparametros/{x}', function($x){
+    return "Hola ". $x;
+});
