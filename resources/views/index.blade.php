@@ -12,7 +12,7 @@
     @extends('layouts.menu')
     @section('menu')
     @parent
-    <img class="imgCompleta" src="img/banner.jpg">
+    <img class="imgCompleta wow slideInUp" src="img/banner.jpg">
     <div class="row espacioArriba espacioAbajo">
         <div class="col-lg-12 text-center">
         <span class="glyphicon glyphicon-menu-down iconoGrande"></span>

@@ -7,13 +7,17 @@
         <link rel="stylesheet" type="text/css" href="lib/bootstrap-3.3.7-dist/css/bootstrap.min.css"></link>
         <link rel="stylesheet" type="text/css" href="css/estilos.css"></link>
         <link rel="stylesheet" type="text/css" href="css/animate.css"></link>
+        <script src="js/wow.min.js"></script>
         <script src="../resources/assets/js/jquery-3.1.0.min.js"></script>
         <script src="lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+        <script>
+            new WOW().init();
+        </script>
         <title>Nosotros</title>
     </head>
     <body>
         @section('menu')
-        <div class="row menu">
+        <div class="row menu wow fadeInDown">
             <div class="container">
                 <div class="col-lg-1 text-left">
                     <img src="img/logo.png"/>
