@@ -1,0 +1,59 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-weight: 100;
+    width: 100%;
+}
+.glyphicon {
+   font-family:'Glyphicons Halflings' !important;
+}
+
+.menu{
+    padding-top: 1em;
+}
+.menu ul{
+    padding-top: 2em;;
+}
+.menu li{
+    margin-right: 2em;
+    display: inline;
+}
+.menu li a{
+    transition: 0.3s;
+    text-decoration: none;
+    padding: 30px 0px 30px 0px;
+}
+.menu li a:hover{
+    border-top: 4px solid #21b8db;
+    border-bottom: 4px solid #21b8db;
+    padding: 6px 0; 
+    text-decoration: none;
+}
+.imgCompleta{
+    width: 100%;
+}
+.iconoGrande{
+    font-size: 8em;
+    color: #086fbc;
+}.fuenteAzul{
+    color: #086fbc;
+}
+.fuenteBlanca{
+    color: #fff;
+}
+.bloqueAzul{
+    background-color: #21b8db;
+}
+.espacioArriba{
+    padding-top: 5em;
+}
+.espacioAbajo{
+    padding-bottom: 5em;
+}
+.prueba{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 30em;
+    left: 65em;
+}

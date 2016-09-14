@@ -12,5 +12,24 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::get('nosotros',function(){
+    return view('nosotros');
+});
+
+Route::get('/prueba',function(){
+    return "esto es un mensaje de prueba";
+});
+
+Route::get('/pruebaparametros/{x}', function($x){
+    return "Hola ". $x;
+});
+
+Route::get('pruebacont','controladorPrueba@index');
+
+Route::get('controladorConNombre/{name}','controladorPrueba@nombre');
+
+// Controladores RestFull php artisan maje:controller NOMBRE
+Route::resource('amigos','AmigosController');
