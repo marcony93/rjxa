@@ -39,7 +39,7 @@
             @yield('content')
         </div>
         @section('footer')
-        <div class="row text-center fuenteAzul espacioAbajo">
+        <div class="row text-center fuenteAzul espacioAbajo wow pulse">
             <div class="col-lg-12">
                 <img src="img/logoMediano.png">
             </div>
