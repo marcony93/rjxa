@@ -24,12 +24,12 @@
                 </div>
                 <div class="col-lg-11 text-right">
                     <ul>
-                        <li><a href="">Inicio</a></li>
-                        <li><a href="">Conócenos</a></li>
-                        <li><a href="">Noticias</a></li>
-                        <li><a href="">Voluntariado</a></li>
-                        <li><a href="">Galeria</a></li>
-                        <li><a href="">Contáctanos</a></li>
+                        <li><a href="inicio"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
+                        <li><a href="conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
+                        <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
+                        <li><a href="voluntario"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
+                        <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
+                        <li><a href=""><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,25 +38,23 @@
         <div class="row">
             @yield('content')
         </div>
-        @section('footer')
         <div class="row text-center fuenteAzul espacioAbajo wow pulse">
             <div class="col-lg-12">
                 <img src="img/logoMediano.png">
             </div>
             <div class="col-lg-12 menu">
                 <ul>
-                    <li>Inicio</li>
-                    <li>Conócenos</li>
-                    <li>Noticias</li>
-                    <li>Voluntariado</li>
-                    <li>Galeria</li>
-                    <li>Contáctanos</li>
+                    <li><a href="inicio"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
+                    <li><a href="conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
+                    <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
+                    <li><a href="voluntario"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
+                    <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
+                    <li><a href=""><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                 </ul>
             </div>
             <div class="col-lg-12">
                 <h4>Copyright © 2016 Red de Jóvenes por el Agua. Todos los Derechos Reservados</h4>
             </div>
         </div>
-        @show
     </body>
 </html>

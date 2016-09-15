@@ -11,12 +11,20 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('inicio', function () {
     return view('index');
 });
 
 Route::get('nosotros',function(){
     return view('nosotros');
+});
+
+Route::get('conocenos',function(){
+    return view('conocenos');
+});
+
+Route::get('voluntario',function(){
+    return view('voluntariado');
 });
 
 Route::get('/prueba',function(){

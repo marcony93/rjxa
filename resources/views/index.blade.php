@@ -23,23 +23,21 @@
         <div class="container espacioArriba espacioAbajo">
             <div class="col-lg-6 fuenteBlanca espacioArriba espacioAbajo text-center wow bounceInLeft">
                 <h2>Misión</h2>
-                <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T.persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. </p>
+                <p>Garantizar la participación de las juventudes en los procesos de la gestión integrada del recurso hídrico en la región centroamericana. </p>
             </div>
             <div class="col-lg-6 fuenteBlanca espacioArriba espacioAbajo text-center wow bounceInRight">
                 <h2>Visión</h2>
-                <p>Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo "Contenido aquí, contenido aquí". </p>
+                <p>Ser la Red Juvenil Líder que impulse la Gestión Integrada de Recursos Hídricos (GIRH) en Centroamérica. </p>
             </div>
         </div>
     </div>
     <div class="row">
         <img class="imgCompleta" src="img/voluntario.png">
         <div class="prueba fuenteBlanca">
-        <h1 >Forma parte de nuestro voluntariado</h1>
-        <h4 >Es un hecho establecido hace demasiado tiempo que un lector se distraerá</h4>
+        <h1>Forma parte de nuestro voluntariado!</h1>
+        <h4>Genera cambios positivos para nuestro país desde la RJxA</h4>
         </div>
     </div>
     @endsection
-    
-
     </body>
 </html>
