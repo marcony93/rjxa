@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="row">
-        <img class="imgCompleta" src="img/voluntario.png">
+        <img class="imgCompleta" src="img/voluntario.jpg">
         <div class="prueba fuenteBlanca">
         <h1 >Forma parte de nuestro voluntariado</h1>
         <h4 >Es un hecho establecido hace demasiado tiempo que un lector se distraerá</h4>
