@@ -24,12 +24,12 @@
                 </div>
                 <div class="col-lg-11 text-right">
                     <ul>
-                        <li><a href=""><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
+                        <li><a href="/rjxa/public/"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
                         <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
-                        <li><a href=""><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
+                        <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,23 +38,23 @@
         <div class="row">
             @yield('content')
         </div>
-        <div class="row text-center fuenteAzul espacioAbajo wow pulse">
-            <div class="col-lg-12">
-                <img src="img/logoMediano.png">
-            </div>
-            <div class="col-lg-12 menu">
-                <ul>
-                    <li><a href="inicio"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
-                    <li><a href="conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
-                    <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
-                    <li><a href="voluntario"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
-                    <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
-                    <li><a href=""><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-12">
-                <h4>Copyright © 2016 Red de Jóvenes por el Agua. Todos los Derechos Reservados</h4>
-            </div>
+            <div class="row text-center fuenteAzul espacioAbajo wow pulse">
+        <div class="col-lg-12">
+            <img src="img/logoMediano.png">
         </div>
+        <div class="col-lg-12 menu">
+            <ul>
+                <li><a href="/rjxa/public/"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
+                <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
+                <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
+                <li><a href="voluntario"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
+                <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
+                <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
+            </ul>
+        </div>
+        <div class="col-lg-12">
+            <h4>Copyright © 2016 Red de Jóvenes por el Agua. Todos los Derechos Reservados</h4>
+        </div>
+    </div>
     </body>
 </html>

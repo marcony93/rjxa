@@ -15,8 +15,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/nosotros',function(){
-    return view('nosotros');
+Route::get('/contactanos',function(){
+    return view('contactanos');
 });
 
 Route::get('/conocenos',function(){
