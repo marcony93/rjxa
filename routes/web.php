@@ -11,19 +11,19 @@
 |
 */
 
-Route::get('inicio', function () {
+Route::get('/', function () {
     return view('index');
 });
 
-Route::get('nosotros',function(){
+Route::get('/nosotros',function(){
     return view('nosotros');
 });
 
-Route::get('conocenos',function(){
+Route::get('/conocenos',function(){
     return view('conocenos');
 });
 
-Route::get('voluntario',function(){
+Route::get('/voluntario',function(){
     return view('voluntariado');
 });
 

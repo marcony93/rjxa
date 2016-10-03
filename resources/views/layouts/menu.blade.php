@@ -24,10 +24,10 @@
                 </div>
                 <div class="col-lg-11 text-right">
                     <ul>
-                        <li><a href="inicio"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
-                        <li><a href="conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
+                        <li><a href=""><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
+                        <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
-                        <li><a href="voluntario"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
+                        <li><a href=""><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
                         <li><a href=""><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                     </ul>
