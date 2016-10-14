@@ -15,15 +15,15 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/nosotros',function(){
-    return view('nosotros');
+Route::get('/contactanos',function(){
+    return view('contactanos');
 });
 
 Route::get('/conocenos',function(){
     return view('conocenos');
 });
 
-Route::get('/voluntario',function(){
+Route::get('/voluntariado',function(){
     return view('voluntariado');
 });
 
