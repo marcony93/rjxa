@@ -48,7 +48,7 @@
 <div class="row bloqueAzul" height="200px">
      <br><div class="col-lg-12 text-center fuenteBlanca espacioAbajo">
         <h2></h2><br>
-        <h1>¿Quieres formar parte de nuestro voluntariado?</h1>
+        <h1>¿Querés formar parte de nuestro voluntariado?</h1>
         <h4>Lee los requisitos de un voluntario de la Red de Jóvenes por el Agua - Centroamérica</h4>
         <a href="voluntariado"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">
         Quiero informarme!</button></a>

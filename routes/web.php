@@ -23,6 +23,18 @@ Route::get('/conocenos',function(){
     return view('conocenos');
 });
 
+Route::get('/noticias',function(){
+    return view('nosotros');
+});
+
+Route::get('/albumes',function(){
+    return view('albumesgal');
+});
+
+Route::get('/galeria',function(){
+    return view('galeria');
+});
+
 Route::get('/voluntariado',function(){
     return view('voluntariado');
 });
