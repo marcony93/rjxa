@@ -32,9 +32,24 @@
         </div>
     <div class="row espacioAbajo text-center wow bounceInUp fuenteAzul espacioArriba">
     <div class="col-lg-12"><h3>Responsabilidades fundamentales:</h3></div>
-    <div class="col-lg-4 text-center fuenteAzul"><a href=""><h3>Planificación y Comunicación</h3></a></div>
-    <div class="col-lg-4 text-center fuenteAzul"><a href=""><h3>Código de ética</h3></a></div>
-    <div class="col-lg-4 text-center fuenteAzul"><a href=""><h3>Reclutamiento</h3></a></div>
+    <div class="col-lg-4 text-center fuenteAzul">
+        <a href="">
+            <h3>Planificación y Comunicación</h3>
+            <img src="img/p1.png" alt="">
+        </a>
+    </div>
+    <div class="col-lg-4 text-center fuenteAzul">
+        <a href="">
+            <h3>Código de ética</h3>
+            <img src="img/p3.png" alt="">
+        </a>
+    </div>
+    <div class="col-lg-4 text-center fuenteAzul">
+        <a href="">
+            <h3>Reclutamiento</h3>
+            <img src="img/p2.png" alt="">
+        </a>
+    </div>
     </div>
     <div class="row bloqueAzul" height="200px">
      <br><div class="col-lg-12 text-center fuenteBlanca espacioAbajo">
