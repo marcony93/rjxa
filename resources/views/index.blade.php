@@ -16,9 +16,11 @@
     <div class="row espacioArriba espacioAbajo wow bounceInUp">
         <div class="col-lg-12 text-center espacioArriba espacioAbajo">
         <span class="glyphicon glyphicon-menu-down iconoGrande"></span>
-        <h1 class="fuenteAzul">Red de Jóvenes por el Agua Centroamerica</h1>
+        <h1 class="fuenteAzul">Red de Jóvenes por el Agua Centroamérica</h1>
+        <h3 class="fuenteAzul">"Actuando hoy, asegurando el futuro"</h3>
+        </div>
     </div>
-    </div>
+        
     <div class="row bloqueAzul">
         <div class="container espacioArriba espacioAbajo">
             <div class="col-lg-6 fuenteBlanca espacioArriba espacioAbajo text-center wow bounceInLeft">
@@ -31,13 +33,15 @@
             </div>
         </div>
     </div>
+        
     <div class="row">
-        <img class="imgCompleta" src="img/voluntario.jpg">
-        <div class="prueba fuenteBlanca">
-        <h1>Forma parte de nuestro voluntariado!</h1>
-        <h4>Genera cambios positivos para nuestro país desde la RJxA</h4>
+        <img class="imgCompleta" src="img/voluntariado.jpg">
+        <div class="prueba">
+            <h1>Forma parte de nuestro voluntariado!</h1>
+            <h4>Genera cambios positivos para nuestro país desde la RJxA</h4>
+            <a href="conocenos"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">Conócenos ahora!</button></a>
         </div>
-    </div>
+    </div>      
     @endsection
     </body>
 </html>
