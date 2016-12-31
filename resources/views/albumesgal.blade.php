@@ -37,22 +37,11 @@
             </div>
         </div>
     </div>
-        
-     <div class="row">
-        <div class="col-lg-3 container espacioArriba espacioAbajo fuenteAzul text-center wow bounceInLeft">
-            <a href="/rjxa/public/galeria"><h3>Conoce a nuestros miembros centroamericanos</h3></a>
-        </div>
-         <div class="col-lg-3 container espacioArriba espacioAbajo fuenteAzul text-center wow bounceInLeft">
-             <a href="/rjxa/public/galdos"><h3>Encuentro Sudamericano de Jóvenes - Perú</h3></a>
-        </div>
-         <div class="col-lg-3 container espacioArriba espacioAbajo fuenteAzul text-center wow bounceInLeft">
-             <a href="/rjxa/public/galtres"><h3>Marcha - Proyecto Caupolin</h3></a>
-        </div>
-         <div class="col-lg-3 container espacioArriba espacioAbajo fuenteAzul text-center wow bounceInLeft">
-             <a href="/rjxa/public/galcuatro"><h3>Encuentro de Red de Jóvenes por el Agua, en Nicaragua</h3></a>
-        </div>
+
+     <div class="row" id="galeria">
+
     </div>
-        
+
     <div class="row bloqueAzul">
         <div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
         <h2>¿Tienes alguna idea que consideres importante para la RJxA?</h2>
@@ -60,7 +49,7 @@
         Contáctate con nosotros!</button></a>
         </div>
     </div>
-        
+
     @endsection
     </body>
 </html>

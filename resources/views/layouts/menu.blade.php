@@ -9,6 +9,7 @@
         <link rel="stylesheet" type="text/css" href="css/animate.css"></link>
         <link rel="stylesheet" ype="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css"></link>
         <script src="js/wow.min.js"></script>
+        <script src="js/galeria.js"></script>
         <script src="../resources/assets/js/jquery-3.1.0.min.js"></script>
         <script src="lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
         <script>
@@ -29,7 +30,7 @@
                         <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
                         <li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
                         <li><a href="/rjxa/public/voluntariado"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
-                        <li><a href="/rjxa/public/albumesgal"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
+                        <li><a href="/rjxa/public/albumes"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
                         <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                         <li><a href="https://www.facebook.com/jovenesxagua/"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
 
@@ -51,7 +52,7 @@
                         <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
                         <li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
                         <li><a href="/rjxa/public/voluntariado"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
-                        <li><a href="/rjxa/public/albumesgal"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
+                        <li><a href="/rjxa/public/albumes"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
                         <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
                     </ul>
                 </div>

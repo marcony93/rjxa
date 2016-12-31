@@ -37,7 +37,7 @@
             </div>
         </div>
     </div>
-        
+
 <div class="container">
 	<div class="row espacioArriba espacioAbajo">
 		<div class='list-group gallery'>
@@ -92,8 +92,8 @@
         </div> <!-- list-group / end -->
 	</div> <!-- row / end -->
 </div> <!-- container / end -->
-    
-               
+
+
     <div class="row bloqueAzul">
         <div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
         <h1>¿Te animas a formar parte de nuestro voluntariado?</h1>
@@ -102,7 +102,7 @@
         Sí, me animo!</button></a>
         </div>
     </div>
-        
+
     @endsection
     </body>
 </html>
