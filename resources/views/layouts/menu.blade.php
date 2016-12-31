@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +10,7 @@
         <link rel="stylesheet" type="text/css" href="css/animate.css"></link>
         <link rel="stylesheet" ype="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css"></link>
         <script src="js/wow.min.js"></script>
-        <script src="js/galeria.js"></script>
+
         <script src="../resources/assets/js/jquery-3.1.0.min.js"></script>
         <script src="lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
         <script>
@@ -61,5 +62,6 @@
                     <h4>Copyright © 2016 Red de Jóvenes por el Agua. Todos los Derechos Reservados</h4>
                 </div>
             </div>
+                    <script src="js/galeria.js"></script>
     </body>
 </html>
