@@ -3,7 +3,7 @@
     @parent
     
     <br><br>
-    @include('layouts.todasnoticias')
+    @include('layouts.unanoticia')
 
 
 @endsection

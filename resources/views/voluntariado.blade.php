@@ -69,7 +69,7 @@
         </a>
     </div>
     </div>
-    <div class="row bloqueAzul" height="200px">
+    <div class="row bloqueAzul " height="200px">
      <br><div class="col-lg-12 text-center fuenteBlanca espacioAbajo">
         <h2></h2><br>
         <h1>¿Cumples con todos los requisitos?</h1>
