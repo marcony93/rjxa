@@ -1,16 +1,34 @@
 @extends('layouts.menu')
 @section('menu')
 @parent
-    <div class="row espacioAbajo wow bounceInUp fuenteBlanca">
-        <img class="imgCompleta" src="img/PerfilVoluntario.jpg" height="280px" width="1000px">
-        <h1>Perfil del Voluntario</h1>
-    
-    <div class="col-lg-1"></div>
-    <div class="col-lg-10 text-center fuenteAzul">
-        <h3>El/la Voluntario(a) de la red nacional, debe participar en las acciones desarrolladas por la red con miras a contribuir a la Gestión Integral de los  Recursos  Hídricos  (GIRH)  de  su  país  y,  en  la  medida  de  lo  posible,  de  la región centroamericana. El  rol  como  Voluntario(a)  es  una experiencia  que  involucra responsabilidades  pero  es extremadamente gratificante.  </h3><br>
-    </div>
-            <div class="col-lg-1"></div>
+<div class="container-fluid">
+  <div class="row">
+      <div class="col-md-12">
+        <strong></b><h2 align="center" class="subir wow fadeInDown">El/la Voluntario(a) de la red nacional,
+          debe participar en las acciones desarrolladas por la red con miras a contribuir
+           a la Gestión Integral de los  Recursos  Hídricos  (GIRH)  de su  país
+           y,  en  la  medida  de  lo  posible,  de  la región centroamericana.
+         </h2></strong>
       </div>
+  </div>
+</div>
+<img src="img/bannerLargo.jpg" class="imgCompleta img-responsive" style="position: relative; " alt="">
+
+<div class="container-fluid">
+  <div class="row espacioArriba espacioAbajo wow bounceInUp fuenteBlanca">
+    <div class="col-md-5 col-md-offset-1 fuenteAzul">
+      <img src="img/imgb1.jpg" alt="">
+    </div>
+    <div class="col-md-5 fuenteAzul">
+      <br><br><br><br><br><br><br><br><br>
+      <h4 align="justify">
+        El  rol  comobVoluntario(a)  es  una experiencia  que  involucra responsabilidades
+        pero  es extremadamente gratificante.
+      </h4>
+    </div>
+  </div>
+</div>
+
         <div class="row bloqueAzul">
             <div class="container espacioArriba espacioAbajo">
                 <div class="col-lg-5 fuenteBlanca text-center wow bounceInLeft">
@@ -62,4 +80,3 @@
     </div>
     </div>
 @endsection
-  

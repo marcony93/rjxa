@@ -9,6 +9,7 @@
         <link rel="stylesheet" type="text/css" href="css/animate.css"></link>
         <link rel="stylesheet" ype="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css"></link>
         <script src="js/wow.min.js"></script>
+        <script src="js/galeria.js"></script>
         <script src="../resources/assets/js/jquery-3.1.0.min.js"></script>
         <script src="lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
         <script>

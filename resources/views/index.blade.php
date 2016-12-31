@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>RJxA</title>
-        <!-- Fonts -->
 
-    </head>
-    <body>
     @extends('layouts.menu')
     @section('menu')
     @parent
@@ -16,11 +6,11 @@
     <div class="row espacioArriba espacioAbajo wow bounceInUp">
         <div class="col-lg-12 text-center espacioArriba espacioAbajo">
         <span class="glyphicon glyphicon-menu-down iconoGrande"></span>
-        <h1 class="fuenteAzul">Red de Jóvenes por el Agua Centroamérica</h1>
+        <h1 class="fuenteAzul ">Red de Jóvenes por el Agua Centroamérica</h1>
         <h3 class="fuenteAzul">"Actuando hoy, asegurando el futuro"</h3>
         </div>
     </div>
-        
+
     <div class="row bloqueAzul">
         <div class="container espacioArriba espacioAbajo">
             <div class="col-lg-6 fuenteBlanca espacioArriba espacioAbajo text-center wow bounceInLeft">
@@ -33,7 +23,7 @@
             </div>
         </div>
     </div>
-        
+
     <div class="row">
         <img class="imgCompleta" src="img/voluntariado.jpg">
         <div class="prueba">
@@ -41,7 +31,5 @@
             <div class="wow bounceInRight"><h4>Genera cambios positivos para nuestro país desde la RJxA</h4></div>
             <a href="conocenos"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">Conócenos ahora!</button></a>
         </div>
-    </div>      
+    </div>
     @endsection
-    </body>
-</html>

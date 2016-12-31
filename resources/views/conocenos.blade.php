@@ -1,27 +1,81 @@
 @extends('layouts.menu')
 @section('menu')
 @parent
-<img class="imgCompleta wow slideInUp" src="img/banner.jpg" height="200px">
-<div class="row espacioArriba espacioAbajo wow bounceInUp">
-    <div class="col-lg-1"></div>
-<div class="col-lg-12 text-center fuenteAzul">
-<h4><strong>El agua es un recurso vital que está presente en todas las actividades cotidianas del ser humano. Por lo tanto, su gestión debe ser un tema prioritario para garantizar la seguridad hídrica y promover el desarrollo de los países.</strong><br></h4>
+
+<div class="container-fluid">
+  <div class="row espacioAbajo ">
+    <div class="col-md-12 ">
+      <figure class="snip1321 wow bounceInUp"><img src="img/n0.jpg" />
+        <figcaption>
+          <h3>
+            El agua es un recurso vital que está presente en todas las actividades
+            cotidianas del ser humano. Por lo tanto, su gestión debe ser un tema
+            prioritario para garantizar la seguridad hídrica y promover el desarrollo
+            de los países.
+          </h3>
+        </figcaption><a href="#"></a>
+      </figure>
+    </div>
+  </div>
+  <div class="row vertical-divider espacioAbajo">
+    <div class="col-md-4 col-md-offset-2 wow fadeInLeft espacioArriba espacioAbajo">
+      <img src="img/n4.jpg " class="img-responsive espacioArriba" />
+    </div>
+    <div class="col-md-4  espacioArriba">
+      <h5 class="espacioArriba text-justify wow fadeInRight espacioTexto">
+        <span class="capitalizable">C</span>entroamérica es un territorio reconocido por la abundancia de recursos
+        hídricos. A pesar de esto, es una de las regiones más expuestas a los
+        efectos del cambio climático; existe todavía déficit en el acceso al agua
+        e incluso escasez en algunas áreas que dificultan impulsar el  aprovechamiento
+        adecuado de los recursos hídricos, que es un factor clave para el desarrollo
+        de cualquier país. Además de ser una de las regiones más vulnerables al ser
+        un istmo estrecho entre los océanos Pacífico y Atlántico, es una zona
+        recurrentemente afectada por sequías, ciclones, el fenómeno El Niño, entre
+        otros. Todos estos factores están elevando nuestras vulnerabilidades
+        socioeconómicas e incidirá cada vez más dado que los factores dependientes
+        del clima son decisivos para las actividades productivas como la agricultura,
+        fuerza motriz de la región.
+      </h5>
+    </div>
+  </div>
+  <div class="row vertical-divider  espacioAbajo">
+    <div class="col-md-4  col-md-offset-2 espacioArriba espacioAbajo">
+      <h5 class="espacioArriba text-justify wow  fadeInLeft espacioTexto">
+        <span class="capitalizable">A</span>nte la necesidad de avanzar en el desarrollo de mecanismos de coordinación,
+        promoción y gestión de los recursos hídricos de la región, se volvió una prioridad
+         que los usuarios del agua en los países de la región interioricen el concepto y
+         la práctica de la Gestión Integrada de Recursos Hídricos (GIRH), que utilicen
+         instrumentos como leyes, políticas, planes afines, y se involucren en la concientización
+         de la población, principalmente de las juventudes centroamericanas para generar la
+         realización de buenas prácticas que permitan la conservación de los recursos fomentando
+         elementos de acción y espacios de diálogo ambientales con enfoque democrático.
+      </h5>
+    </div>
+    <div class="col-md-4  wow  fadeInRight  espacioArriba ">
+      <img src="img/n3.jpg " class="img-responsive espacioArriba" />
+    </div>
+  </div>
+
+  <div class="row espacioArriba espacioAbajo">
+    <div class="col-md-12 espacioArriba">
+      <img src="img/n5.jpg" class="img-responsive centrarImagen wow fadeInUp">
+      <h5 class="ajustarParrafo text-justify wow fadeInUp">
+        <span class="capitalizable">A</span> partir de la concientización de esta realidad se ha conformado la
+        <strong>Red de Jóvenes por el Agua Centroamérica,</strong> prometiendo
+        ser plataforma útil para incidir en espacios de diálogo y acciones que
+        fomenten la GIRH a través de la realización de acciones de cambio,
+        constituyéndose en organizaciones con espacios abiertos e inclusivos
+        para la juventud de la región que compartan la visión de trabajo conjunto.
+        La Red de Jóvenes por el Agua Centroamérica representa la voluntad colectiva
+         de ellos con un objetivo en común: <strong><em>Fomentar la gestión del agua
+           en la región contribuyendo al desarrollo sostenible.</em></strong>
+      </h5>
+    </div>
+  </div>
 </div>
-<div class="col-lg-1"></div>
-<div class="col-lg-10 fuenteAzul">
-    <h4>
-    Centroamérica es un territorio reconocido por la abundancia de recursos hídricos. A pesar de esto, es una de las regiones más expuestas a los efectos del cambio climático; existe todavía déficit en el acceso al agua e incluso escasez en algunas áreas que dificultan impulsar el  aprovechamiento adecuado de los recursos hídricos, que es un factor clave para el desarrollo de cualquier país. Además de ser una de las regiones más vulnerables al ser un istmo estrecho entre los océanos Pacífico y Atlántico, es una zona recurrentemente afectada por sequías, ciclones, el fenómeno El Niño, entre otros. Todos estos factores están elevando nuestras vulnerabilidades socioeconómicas e incidirá cada vez más dado que los factores dependientes del clima son decisivos para las actividades productivas como la agricultura, fuerza motriz de la región.<br><br>
 
-    Ante la necesidad de avanzar en el desarrollo de mecanismos de coordinación, promoción y gestión de los recursos hídricos de la región, se volvió una prioridad que los usuarios del agua en los países de la región interioricen el concepto y la práctica de la Gestión Integrada de Recursos Hídricos (GIRH), que utilicen instrumentos como leyes, políticas, planes afines, y se involucren en la concientización de la población, principalmente de las juventudes centroamericanas para generar la realización de buenas prácticas que permitan la conservación de los recursos fomentando elementos de acción y espacios de diálogo ambientales con enfoque democrático.<br><br>
-
-    A partir de la concientización de esta realidad se ha conformado la <strong>Red de Jóvenes por el Agua Centroamérica,</strong> prometiendo ser plataforma útil para incidir en espacios de diálogo y acciones que fomenten la GIRH a través de la realización de acciones de cambio, constituyéndose en organizaciones con espacios abiertos e inclusivos para la juventud de la región que compartan la visión de trabajo conjunto. <br><br>
-    La Red de Jóvenes por el Agua Centroamérica representa la voluntad colectiva de ellos con un objetivo en común: <strong><em>Fomentar la gestión del agua en la región contribuyendo al desarrollo sostenible.</em></strong><br>
-        </h4>
-    </div>
-    <div class="col-lg-1"></div>
-    </div>
- <div class="row bloqueAzul">
-     <br><div class="col-lg-12 text-center fuenteBlanca">
+ <div class="row bloqueAzul ">
+     <br><div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
         <h2><span class="glyphicon glyphicon-list-alt"></span> Objetivos de la Red de Jóvenes por el Agua</h2><br>
         <h3>Objetivo General:</h3><br>
         <h4>Fomentar la participación juvenil centroamericana en la GIRH.</h4><br>

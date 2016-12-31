@@ -37,6 +37,7 @@
             </div>
         </div>
     </div>
+
         
      <div class="row espacioArriba espacioAbajo fuenteAzul text-center wow bounceInLeft">
         <div class="col-lg-3">
@@ -51,8 +52,12 @@
          <div class="col-lg-3">
              <a href="/rjxa/public/galcuatro"><h3>Encuentro de Red de Jóvenes por el Agua, en Nicaragua</h3></a>
         </div>
+
+
+     <div class="row" id="galeria">
+
     </div>
-        
+
     <div class="row bloqueAzul">
         <div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
             <div class="wow bounceInRight"><h2>¿Tienes alguna idea que consideres importante para la RJxA?</h2></div>
@@ -60,7 +65,7 @@
         Contáctate con nosotros!</button></a>
         </div>
     </div>
-        
+
     @endsection
     </body>
 </html>
