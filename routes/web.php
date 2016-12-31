@@ -23,7 +23,7 @@ Route::get('/conocenos',function(){
     return view('conocenos');
 });
 
-Route::get('/noticias',function(){
+Route::get('/informate',function(){
     return view('nosotros');
 });
 
@@ -38,6 +38,32 @@ Route::get('/galeria',function(){
 Route::get('/voluntariado',function(){
     return view('voluntariado');
 });
+
+Route::get('/sistema',function(){
+    return view('admin');
+});
+
+Route::get('/vertodos',function(){
+    return view('todos');
+});
+
+
+Route::get('/editar',function(){
+    return view('editar');
+});
+
+Route::get('/detalle',function(){
+    return view('detalle');
+});
+
+Route::get('/vertodos','Noticias@index');
+
+//Route::get('/detalle','Noticias@show');
+
+Route::get('/noticias','Noticias@mostrar');
+
+Route::resource('/noticiaspanel','Noticias');
+
 
 Route::get('/prueba',function(){
     return "esto es un mensaje de prueba";
