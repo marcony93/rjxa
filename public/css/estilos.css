@@ -56,10 +56,9 @@ html, body {
 }
 .prueba{
    	position: relative;
-    bottom:148px;
+    bottom:168px;
     color:#fff;
     background-color:#21b8db;
-    padding: 2px 10px 20px;
     font-weight:bold;
     text-align: center;
 }

@@ -21,7 +21,7 @@
     <div class="col-md-4 col-md-offset-2 wow fadeInLeft espacioArriba espacioAbajo">
       <img src="img/n4.jpg " class="img-responsive espacioArriba" />
     </div>
-    <div class="col-md-4  espacioArriba">
+    <div class="col-md-4">
       <h5 class="espacioArriba text-justify wow fadeInRight espacioTexto">
         <span class="capitalizable">C</span>entroamérica es un territorio reconocido por la abundancia de recursos
         hídricos. A pesar de esto, es una de las regiones más expuestas a los
@@ -39,7 +39,7 @@
     </div>
   </div>
   <div class="row vertical-divider  espacioAbajo">
-    <div class="col-md-4  col-md-offset-2 espacioArriba espacioAbajo">
+    <div class="col-md-4  col-md-offset-2 espacioAbajo">
       <h5 class="espacioArriba text-justify wow  fadeInLeft espacioTexto">
         <span class="capitalizable">A</span>nte la necesidad de avanzar en el desarrollo de mecanismos de coordinación,
         promoción y gestión de los recursos hídricos de la región, se volvió una prioridad
