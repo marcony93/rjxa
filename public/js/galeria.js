@@ -28,11 +28,7 @@
         {"TituloFoto":"marruecos10.jpg"},
         {"TituloFoto":"marruecos11.jpg"},
         {"TituloFoto":"marruecos12.jpg"},
-        {"TituloFoto":"marruecos13.jpg"},
-        {"TituloFoto":"marruecos14.jpg"},
-        {"TituloFoto":"marruecos15.jpg"},
         {"TituloFoto":"marruecos16.jpg"},
-        {"TituloFoto":"marruecos17.jpg"},
         {"TituloFoto":"marruecos18.jpg"},
         {"TituloFoto":"marruecos19.jpg"},
         {"TituloFoto":"marruecos20.jpg"}
@@ -66,12 +62,7 @@
         {"TituloFoto":"nicaragua3.jpg"},
         {"TituloFoto":"nicaragua4.jpg"},
         {"TituloFoto":"nicaragua5.jpg"},
-        {"TituloFoto":"nicaragua6.jpg"},
-        {"TituloFoto":"nicaragua7.jpg"},
-        {"TituloFoto":"nicaragua8.jpg"},
-        {"TituloFoto":"nicaragua9.jpg"},
-        {"TituloFoto":"nicaragua10.jpg"},
-        {"TituloFoto":"nicaragua11.jpg"}
+        {"TituloFoto":"nicaragua6.jpg"}
       ]
     },
     {"titulo":"Fotos de la RJxA Guatemala",
