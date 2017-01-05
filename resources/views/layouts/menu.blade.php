@@ -29,10 +29,10 @@
                     <ul>
                         <li><a href="/rjxa/public/"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
                         <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
-                        <li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
+                        <!--<li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>!-->
                         <li><a href="/rjxa/public/voluntariado"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
                         <li><a href="/rjxa/public/albumes"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
-                        <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
+                        <!--<li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>!-->
                         <li><a href="https://www.facebook.com/jovenesxagua/"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
 
                     </ul>
@@ -51,10 +51,10 @@
                     <ul>
                         <li><a href="/rjxa/public/"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio</a></li>
                         <li><a href="/rjxa/public/conocenos"><span class="glyphicon glyphicon-tint"></span>&nbsp;Conócenos</a></li>
-                        <li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>
+                        <!--<li><a href="/rjxa/public/noticias"><span class="glyphicon glyphicon-folder-open"></span>&nbsp;&nbsp;Noticias</a></li>!-->
                         <li><a href="/rjxa/public/voluntariado"><span class="glyphicon glyphicon-user"></span>&nbsp;Voluntariado</a></li>
                         <li><a href="/rjxa/public/albumes"><span class="glyphicon glyphicon-picture"></span>&nbsp;Galería</a></li>
-                        <li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>
+                        <!--<li><a href="/rjxa/public/contactanos"><span class="glyphicon glyphicon-envelope"></span>&nbsp;Contáctanos</a></li>!-->
                     </ul>
                 </div>
                 <div class="col-lg-12">
