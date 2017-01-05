@@ -9,8 +9,10 @@
             </div>
         </div>
     </div>
+
      <div id="galeria">
     </div>
+    <div class="row"></div>
 
     <div class="row bloqueAzul">
         <div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
