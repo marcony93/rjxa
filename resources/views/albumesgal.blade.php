@@ -9,11 +9,7 @@
             </div>
         </div>
     </div>
-     <div class="row">
-       <div class="col-md-12 text-center" id="galeria">
-
-       </div>
-
+     <div id="galeria">
     </div>
 
     <div class="row bloqueAzul">
