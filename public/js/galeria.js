@@ -54,7 +54,7 @@
         {"TituloFoto":"peru7.jpg"}
       ]
     },
-    {"titulo":"Fotos de la RJxA Guatemala",
+    {"titulo":"RJxA-Guatemala",
       "carpeta":"redPorPaies/Guatemala/",
       "Album":[
         {"TituloFoto":"DSC_0351.jpg"},
@@ -74,7 +74,7 @@
         {"TituloFoto":"nicaragua6.jpg"}
       ]
     },
-    {"titulo":"Fotos de la RJxA Panamá",
+    {"titulo":"RJxA-Panamá",
       "carpeta":"redPorPaies/Panama/",
       "Album":[
         {"TituloFoto":"panama2.jpg"},
