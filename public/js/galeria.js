@@ -1,6 +1,6 @@
 (function functionName() {
   var galeria = [
-    {"titulo":"Reunion en Honduras",
+    {"titulo":"Reunión en Honduras",
       "carpeta":"reunionHonduras/",
       "Album":[
         {"TituloFoto":"IMG_205737.jpg"},
@@ -34,7 +34,7 @@
         {"TituloFoto":"marruecos20.jpg"}
       ]
     },
-    {"titulo":"Nantes francia climate chance",
+    {"titulo":"Nantes Francia Climate Chance",
       "carpeta":"nantesFrancia-climatechance/",
       "Album":[
         {"TituloFoto":"francia1.jpg"},
@@ -42,7 +42,7 @@
         {"TituloFoto":"francia3.jpg"}
       ]
     },
-    {"titulo":"Encuentro de jóvenes por la seguridad hídrica, Peru",
+    {"titulo":"Encuentro de jóvenes por la seguridad hídrica, Perú",
       "carpeta":"peruEncuentrodeJovenesporSegHidrica/",
       "Album":[
         {"TituloFoto":"peru1.jpg"},
@@ -54,7 +54,16 @@
         {"TituloFoto":"peru7.jpg"}
       ]
     },
-    {"titulo":"Fotos de la RJxA Nicaragua",
+    {"titulo":"Fotos de la RJxA Guatemala",
+      "carpeta":"redPorPaies/Guatemala/",
+      "Album":[
+        {"TituloFoto":"DSC_0351.jpg"},
+        {"TituloFoto":"DSC_0353.jpg"},
+        {"TituloFoto":"g1.jpg"},
+        {"TituloFoto":"g2.jpg"}
+      ]
+    },
+    {"titulo":"RJxA-Nicaragua",
       "carpeta":"redPorPaies/Nicaragua/",
       "Album":[
         {"TituloFoto":"nicaragua1.jpg"},
@@ -65,16 +74,7 @@
         {"TituloFoto":"nicaragua6.jpg"}
       ]
     },
-    {"titulo":"Fotos de la RJxA Guatemala",
-      "carpeta":"redPorPaies/Guatemala/",
-      "Album":[
-        {"TituloFoto":"DSC_0351.jpg"},
-        {"TituloFoto":"DSC_0353.jpg"},
-        {"TituloFoto":"g1.jpg"},
-        {"TituloFoto":"g2.jpg"}
-      ]
-    },
-    {"titulo":"Fotos de la RJxA Panama",
+    {"titulo":"Fotos de la RJxA Panamá",
       "carpeta":"redPorPaies/Panama/",
       "Album":[
         {"TituloFoto":"panama2.jpg"},
