@@ -51,6 +51,7 @@
     <div class="row espacioAbajo text-center wow bounceInUp fuenteAzul espacioArriba">
     <div class="col-lg-12"><h3>Responsabilidades fundamentales:</h3></div>
     <div class="col-lg-4 text-center fuenteAzul">
+
             <h3>Planificación y Comunicación</h3>
             <img src="img/p1.png" alt="">
     </div>
@@ -61,6 +62,7 @@
     <div class="col-lg-4 text-center fuenteAzul">
             <h3>Reclutamiento</h3>
             <img src="img/p2.png" alt="">
+
     </div>
     </div>
     <div class="row bloqueAzul " height="200px">
