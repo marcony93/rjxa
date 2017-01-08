@@ -11,13 +11,15 @@
 |
 */
 
+use rjxa\Mail\Correo as ContactEmail;
+use Illuminate\Mail\Message;
+use Illuminate\Support\Facades\Mail;
+
+
 Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/contactanos',function(){
-    return view('contactanos');
-});
 
 Route::get('/conocenos',function(){
     return view('conocenos');
@@ -58,11 +60,16 @@ Route::get('/detalle',function(){
 
 Route::get('/vertodos','Noticias@index');
 
-//Route::get('/detalle','Noticias@show');
+//Route::get('/detalle','Noticias@show'); 'coordcentroamerica@rjxaca.org'
 
 Route::get('/noticias','Noticias@mostrar');
 
 Route::resource('/noticiaspanel','Noticias');
+
+Route::get('contactanos', function(){
+    Mail::to('ericaarguetab@gmail.com', 'Erica')
+        ->send(new ContactEmail('Mensaje'));
+});
 
 
 Route::get('/prueba',function(){

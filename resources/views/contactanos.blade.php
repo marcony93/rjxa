@@ -8,13 +8,13 @@
         <div class="col-lg-12">
             <form>
                 <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombre">
+                    <input type="text" class="form-control" placeholder="Nombre" name="nombre">
                 </div>
                 <div class="form-group">
-                    <textarea class="form-control" placeholder="Mensaje" rows="3"></textarea>
+                    <textarea class="form-control" placeholder="Mensaje" rows="3" name="mensaje"></textarea>
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Correo">
+                    <input type="text" class="form-control" placeholder="Correo" name="correo">
                 </div>
 
                 <div class="form-group">

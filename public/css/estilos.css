@@ -79,8 +79,6 @@ z-index: 1;
 padding-top: 20em;
 }
 
-
-
 figure.snip1321 {
   font-family: 'Raleway', Arial, sans-serif;
   overflow: hidden;
@@ -198,3 +196,45 @@ figure.snip1321.hover:after {
 .row.vertical-divider div[class^="col-"]:last-child {
   border-right: none;
 }
+
+/*Nuevo menu*/
+
+
+.navbar-nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  line-height: 20px;  
+  overflow: hidden;
+  text-align: center;
+  background-color: white;
+}
+
+@media (max-width: 767px) {
+    .menuBajo {
+    display: none;
+    }
+    
+    .navbar .navbar-brand > img {
+        max-width: 100%;
+    }
+    
+    .navbar .navbar-header .navbar-toggle {
+        margin-top: 30px;
+    }
+    
+.navbar .navbar-toggle {
+  background-color: lightgray;  
+}
+    
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+  background-color: lightblue; 
+  color: white;
+  
+}
+.navbar .navbar-toggle .icon-bar {
+  background-color: darkslategrey;
+}
+
+/*Hasta aqui*/

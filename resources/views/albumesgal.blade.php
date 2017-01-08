@@ -18,7 +18,7 @@
         <div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
             <div class="wow bounceInRight"><h2>¿Tienes alguna idea que consideres importante para la RJxA?</h2></div>
         <a href="https://goo.gl/VNFAPF"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">
-        Contáctate con nosotros!</button></a>
+        Sé parte de nosotros!</button></a>
         </div>
     </div>
     <!-- Modal -->

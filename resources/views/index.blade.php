@@ -2,8 +2,9 @@
     @extends('layouts.menu')
     @section('menu')
     @parent
+    <div class="contenedor">
     <img class="imgCompleta wow slideInUp" src="img/banner.jpg">
-    <div class="row espacioArriba espacioAbajo wow bounceInUp">
+    <div class="row espacioArriba espacioAbajo wow bounceInDown">
         <div class="col-lg-12 text-center espacioArriba espacioAbajo">
         <span class="glyphicon glyphicon-menu-down iconoGrande"></span>
         <h1 class="fuenteAzul ">Red de Jóvenes por el Agua Centroamérica</h1>
@@ -33,5 +34,6 @@
             <a href="conocenos"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">Conócenos ahora!</button></a>
             </div>
         </div>
+    </div>
     </div>
     @endsection
