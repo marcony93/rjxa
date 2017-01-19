@@ -76,7 +76,7 @@ html, body {
   color: #fff;
 position: absolute;
 z-index: 1;
-padding-top: 20em;
+padding-top: 15em;
 }
 
 figure.snip1321 {
@@ -177,7 +177,7 @@ figure.snip1321.hover:after {
 .ajustarParrafo{
   padding-right: 25em;
   padding-left: 25em;
-  line-height: 240%;
+  line-height: 200%;
 }
 .row.vertical-divider {
   overflow: hidden;
@@ -200,6 +200,7 @@ figure.snip1321.hover:after {
 /*Nuevo menu*/
 
 
+
 .navbar-nav > li > a {
   position: relative;
   display: block;
@@ -209,6 +210,37 @@ figure.snip1321.hover:after {
   text-align: center;
   background-color: white;
 }
+
+
+
+#centro{
+     display: inline-block;
+    text-align: center;
+}
+
+@media (max-width: 400px) {
+     .subir {
+  color: #fff;
+position: absolute;
+z-index: 1;
+padding-top: 65em;
+}
+    
+     .frase {
+        font-size: 110%;
+    }
+
+    .subtitulo{
+        font-size: 110%;
+    }
+    
+    .titulo{
+        font-size: 160%;
+    }
+    
+    
+}
+
 
 @media (max-width: 767px) {
     .menuBajo {
@@ -238,3 +270,75 @@ figure.snip1321.hover:after {
 }
 
 /*Hasta aqui*/
+
+    
+ .navbar-nav > ul> li{
+  position: relative;
+  display: block;
+  padding: 2px 80px;
+  line-height: 60px;  
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+    }
+    
+    .menu li a:hover{
+     border-top: 4px solid #21b8db;
+    border-bottom: 4px solid #21b8db;
+    padding: 6px 0;
+    text-decoration: none;    
+    max-height: 360px;
+}
+
+    .frase {
+        font-size: 110%;
+    }
+
+    .subtitulo{
+        font-size: 140%;
+    }
+    
+    .titulo{
+        font-size: 160%;
+    }
+    
+    .subir {
+  color: #fff;
+position: absolute;
+z-index: 1;
+padding-top: 30em;
+}
+    .espacios{
+        display: none;
+    }
+}
+
+@media (max-width: 1200px) {
+    .navbar .navbar-brand{
+        align-content: center;
+    }
+       
+  .frase {
+        font-size: 110%;
+    }
+
+    .subtitulo{ 
+        font-size: 140%;
+    }
+    
+    .titulo{
+        font-size: 160%;
+    }
+    
+      .subir {
+  color: #fff;
+position: absolute;
+z-index: 1;
+padding-top: 13em;
+}
+    
+    .unEspacio{
+        display: none;
+    }
+    
+}

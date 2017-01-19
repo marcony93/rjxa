@@ -31,7 +31,7 @@
             <div class="text-center espacioArriba espacioAbajo">
             <div class="wow bounceInLeft"><h1>Forma parte de nuestro voluntariado!</h1></div>
             <div class="wow bounceInRight"><h4>Genera cambios positivos para nuestro país desde la RJxA</h4></div>
-            <a href="conocenos"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">Conócenos ahora!</button></a>
+            <a href="https://goo.gl/VNFAPF"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">Participar ahora!</button></a>
             </div>
         </div>
     </div>

@@ -4,10 +4,10 @@
 
 <div class="container-fluid">
   <div class="row espacioAbajo ">
-    <div class="col-md-12 ">
+    <div class="col-md-12">
       <figure class="snip1321 wow bounceInUp"><img src="img/n0.jpg" />
         <figcaption>
-          <h3>
+          <h3 class="frase">
             El agua es un recurso vital que está presente en todas las actividades
             cotidianas del ser humano. Por lo tanto, su gestión debe ser un tema
             prioritario para garantizar la seguridad hídrica y promover el desarrollo
@@ -74,13 +74,13 @@
   </div>
 </div>
 
- <div class="row bloqueAzul ">
+ <div class="row bloqueAzul">
      <br><div class="col-lg-12 text-center fuenteBlanca espacioArriba espacioAbajo">
-        <h2><span class="glyphicon glyphicon-list-alt"></span> Objetivos de la Red de Jóvenes por el Agua</h2><br>
-        <h3>Objetivo General:</h3><br>
-        <h4>Fomentar la participación juvenil centroamericana en la GIRH.</h4><br>
-        <h3>Objetivos Especificos:</h3><br>
-        <h4>OE1: Articular actores relevantes y aliados potenciales para trabajar en conjunto por la GIRH promoviendo la participación activa de <br>las juventudes en espacios políticos.<br><br>
+        <h2 class="titulo"><span class="glyphicon glyphicon-list-alt"></span> Objetivos de la Red de Jóvenes por el Agua</h2><br>
+        <h3 class="subtitulo">Objetivo General:</h3><br>
+        <h4 class="frase">Fomentar la participación juvenil centroamericana en la GIRH.</h4><br>
+        <h3 class="subtitulo">Objetivos Especificos:</h3><br>
+        <h4 class="frase">OE1: Articular actores relevantes y aliados potenciales para trabajar en conjunto por la GIRH promoviendo la participación activa de <br>las juventudes en espacios políticos.<br><br>
         OE2: Fomentar la formación y el intercambio de experiencias, avances locales, nacionales y regionales con integrantes de la Red de Jóvenes por el Agua<br> en temas ambientales, económicos, políticos y sociales contribuyendo así a la construcción de conocimiento alrededor de la gestión del agua.<br><br>
         OE3: Sensibilizar y generar cambios positivos en el manejo de recursos hídricos involucrando a jóvenes en procesos de participación e<br> incidencia ciudadana en la conservación del recurso.
         </h4><br>
@@ -104,8 +104,8 @@
         <h2></h2><br>
         <h1>¿Querés formar parte de nuestro voluntariado?</h1>
         <h4>Lee los requisitos de un voluntario de la Red de Jóvenes por el Agua - Centroamérica</h4>
-        <a href="voluntariado"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">
-        Quiero informarme!</button></a>
+        <a href="https://goo.gl/VNFAPF"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">
+        Llena tu formulario!</button></a>
         </div>
     </div>
     <br><br>
