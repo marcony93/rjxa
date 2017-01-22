@@ -3,7 +3,7 @@
 @parent
 
 <div class="container-fluid">
-  <div class="row espacioAbajo ">
+  <div class="row espacioAbajo">
     <div class="col-md-12">
       <figure class="snip1321 wow bounceInUp"><img src="img/n0.jpg" />
         <figcaption>
@@ -14,9 +14,10 @@
             de los países.
           </h3>
         </figcaption><a href="#"></a>
-      </figure>
+      </figure>  
     </div>
   </div>
+    
   <div class="row vertical-divider espacioAbajo">
     <div class="col-md-4 col-md-offset-2 wow fadeInLeft espacioArriba espacioAbajo">
       <img src="img/n4.jpg " class="img-responsive espacioArriba" />
@@ -38,6 +39,7 @@
       </h5>
     </div>
   </div>
+    
   <div class="row vertical-divider  espacioAbajo">
     <div class="col-md-4  col-md-offset-2 espacioAbajo">
       <h5 class="espacioArriba text-justify wow  fadeInLeft espacioTexto">
@@ -58,8 +60,11 @@
 
   <div class="row espacioArriba espacioAbajo">
     <div class="col-md-12 espacioArriba">
-      <img src="img/n5.jpg" class="img-responsive centrarImagen wow fadeInUp">
-      <h5 class="ajustarParrafo text-justify wow fadeInUp">
+      <img src="img/n5.jpg" class="img-responsive centrarImagen wow fadeInUp"/>
+     <div class="col-md-3"></div>
+     <div class="col-md-6">
+         <br>
+      <h5 class="ajustarParrafo  text-justify wow fadeInUp">
         <span class="capitalizable">A</span> partir de la concientización de esta realidad se ha conformado la
         <strong>Red de Jóvenes por el Agua Centroamérica,</strong> prometiendo
         ser plataforma útil para incidir en espacios de diálogo y acciones que
@@ -69,7 +74,8 @@
         La Red de Jóvenes por el Agua Centroamérica representa la voluntad colectiva
          de ellos con un objetivo en común: <strong><em>Fomentar la gestión del agua
            en la región contribuyendo al desarrollo sostenible.</em></strong>
-      </h5>
+      </h5></div>
+      <div class="col-md-3"></div>
     </div>
   </div>
 </div>

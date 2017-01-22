@@ -70,7 +70,7 @@
     <div class="row bloqueAzul " height="200px">
      <br><div class="col-lg-12 text-center fuenteBlanca espacioAbajo">
         <h2></h2><br>
-        <h1 class="titulo">¿Cumples con todos los requisitos?</h1>
+        <h1 class="">¿Cumples con todos los requisitos?</h1>
         <h4 class="">Sé parte de la Red de Jóvenes por el Agua desde hoy!</h4>
         <a href="https://goo.gl/VNFAPF"><button type="button" class="btn btn-warning btn-lg" aria-label="Left Align">
         Completa tu formulario!</button></a>

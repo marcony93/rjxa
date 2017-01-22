@@ -58,11 +58,14 @@ Route::get('/detalle',function(){
     return view('detalle');
 });
 
-Route::get('/vertodos','Noticias@index');
+Route::get('/noticias',function(){
+    return view('noticias');
+});
+
+Route::get('/vertodos','Noticias@mostrar');
 
 //Route::get('/detalle','Noticias@show'); 'coordcentroamerica@rjxaca.org'
 
-Route::get('/noticias','Noticias@mostrar');
 
 Route::resource('/noticiaspanel','Noticias');
 
