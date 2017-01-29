@@ -5,7 +5,7 @@
 <div class="container-fluid">
   <div class="row espacioAbajo">
     <div class="col-md-12">
-      <figure class="snip1321 wow bounceInUp"><img src="img/n0.jpg" />
+      <figure class="snip1321 wow bounceInUp ajustar"><img src="img/n0.jpg" />
         <figcaption>
           <h3 class="frase">
             El agua es un recurso vital que está presente en todas las actividades

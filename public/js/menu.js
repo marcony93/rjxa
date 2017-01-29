@@ -1,13 +1,13 @@
-$(document).ready(main);
- 
-var contador = 1;
-
-function main () {
-	$('.navbar-toggle').click(function(){
-		if (contador == 1) {
-			$('nav').animate({
-				left: '0'
-			});
-			contador = 0;
-		} 
+$(document).ready(function()
+	{
+		$('.navbar-nav li a.dropdown-toggle').click(function(e)
+		{
+			e.preventDefault();
+			$(this).parent().toggleClass('open');
+		});
+		$('[data-toggle="collapse"]').click(function()
+		{
+			var target = $(this).attr('data-target');
+			$(target).toggleClass('in');
+		});
 	});
