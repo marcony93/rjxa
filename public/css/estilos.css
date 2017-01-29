@@ -244,14 +244,16 @@ padding-top: 65em;
 
 nav{
     padding-top: 2em;
+    
 }
 ul{
-    padding-top: 2em;
+   padding-top: 2em;
+    float: right;
 }
 li{
     margin-right: 3em;
     display: inline;
-   
+
 }
 li a{
     transition: 0.3s;
@@ -274,8 +276,8 @@ li a:hover{
 
    
 nav ul {
-		  display: none;
-        
+        display: none;
+        margin-top: -30px;
 	}
 
 	label {
@@ -313,11 +315,10 @@ label:after{
 
 	nav ul li {
 		  display: block;
-  		float: none;
+  		float:  none;
   		width: 100%;
   		text-align: center;
   		background: #fff;
-		 
         padding-top: 25px;
 	}
 
